@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/816273BB-2CEB-4BD2-91DB-7806531A0852/appid=*
+provisioning_profiles/development/816273BB-2CEB-4BD2-91DB-7806531A0852/name=GL_Development_Profile
+provisioning_profiles/development/816273BB-2CEB-4BD2-91DB-7806531A0852/uuid=816273BB-2CEB-4BD2-91DB-7806531A0852
+provisioning_profiles/development/B84CEAFB-B6AB-46E4-98C8-2D7274BABA78/appid=com.globallogic.Appcelerator
+provisioning_profiles/development/B84CEAFB-B6AB-46E4-98C8-2D7274BABA78/name=Appcelerator_Development_APNS_Profile
+provisioning_profiles/development/B84CEAFB-B6AB-46E4-98C8-2D7274BABA78/uuid=B84CEAFB-B6AB-46E4-98C8-2D7274BABA78
